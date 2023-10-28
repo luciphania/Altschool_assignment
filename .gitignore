@@ -1,0 +1,5 @@
+#ignore these file
+.provision.sh.un~
+.vagrant/
+Vagrantfile
+provision.sh~
